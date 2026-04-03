@@ -1,0 +1,45 @@
+docs/
+├── .vitepress/
+│   └── config.ts
+│
+├── public/
+│
+├── index.md
+│
+├── persona/
+│   └── index.md
+│
+├── philosophy/
+│   ├── index.md
+│   ├── decision-making.md
+│   └── anti-patterns.md
+│
+├── stack/
+│   ├── index.md
+│   ├── frontend.md
+│   ├── backend.md
+│   └── tooling.md
+│
+├── conventions/
+│   ├── index.md
+│   ├── typescript.md
+│   ├── naming.md
+│   ├── structure.md
+│   └── git.md
+│
+├── patterns/
+│   ├── index.md
+│   ├── frontend/
+│   │   ├── component.md
+│   │   ├── state.md
+│   │   ├── data-fetching.md
+│   │   └── styling.md
+│   └── backend/
+│       ├── api-design.md
+│       ├── schema.md
+│       └── error-handling.md
+│
+└── ai-workflow/
+    ├── index.md
+    ├── prompting.md
+    └── code-review.md

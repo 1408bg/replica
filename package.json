@@ -1,0 +1,24 @@
+{
+  "name": "replica",
+  "version": "1.0.0",
+  "description": "A personal development style guide documenting my coding standards and practices.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "dev:host": "vitepress dev docs --host",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "1408bg",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "overrides": {
+    "vite": "7.3.1"
+  }
+}
