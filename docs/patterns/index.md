@@ -10,12 +10,12 @@ outline: false
     실제 구현 단계에서 반복해서 사용하는 구조와 흐름을 다룬다. 컨벤션이 로컬 규칙이라면, 패턴은 기능 단위의 설계 방식이다.
   </p>
   <div class="section-cover-topics" aria-label="Patterns topics">
-    <a href="/patterns/frontend/component">Component</a>
-    <a href="/patterns/frontend/state">State</a>
-    <a href="/patterns/frontend/data-fetching">Data Fetching</a>
-    <a href="/patterns/frontend/styling">Styling</a>
-    <a href="/patterns/backend/api-design">API Design</a>
-    <a href="/patterns/backend/schema">Schema</a>
-    <a href="/patterns/backend/error-handling">Error Handling</a>
+    <a href="./frontend/component">Component</a>
+    <a href="./frontend/state">State</a>
+    <a href="./frontend/data-fetching">Data Fetching</a>
+    <a href="./frontend/styling">Styling</a>
+    <a href="./backend/api-design">API Design</a>
+    <a href="./backend/schema">Schema</a>
+    <a href="./backend/error-handling">Error Handling</a>
   </div>
 </div>
